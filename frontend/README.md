@@ -41,19 +41,21 @@ Hier haben wir noch ein paar kleine CSS-Aufgaben. Stecken Sie nicht zu viel Zeit
 
 Bauen Sie eine kleine Seite, die sich verhält wie im folgenden Video:
 
-![Video des Verhaltens von Layout 1](layout1.mp4)
+https://user-images.githubusercontent.com/35528800/161788610-d7fbaa85-348a-4be5-b7b0-81a6d3dd2438.mp4
 
 #### 3.2 Layout 2
 
 Bauen Sie eine kleine Seite, die sich verhält wie im folgenden Video:
 
-![Video des Verhaltens von Layout 2](layout2.mp4)
+https://user-images.githubusercontent.com/35528800/161788650-2f708feb-c439-4c79-a303-d4903d31a3af.mp4
+
 
 #### 3.3 Layout 3
 
 Bauen Sie eine kleine Seite, die sich verhält wie im folgenden Video:
 
-![Video des Verhaltens von Layout 3](layout3.mp4)
+https://user-images.githubusercontent.com/35528800/161788689-6d77728f-43e6-4182-8a90-bdb65db58d2e.mp4
+
 
 #### 3.4 Styling mit Tailwind vs. Sass
 
