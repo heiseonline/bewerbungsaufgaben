@@ -10,6 +10,6 @@ Zeigen Sie uns, wie Sie ein neues Projekt mit von Ihnen ausgewählter Software e
 - Entwickeln Sie eine einfache clientseitige Webanwendung mit einem Javascript-Framework Ihrer Wahl, die als GUI für den Webservice dient und mit dem Artikel angelegt, angezeigt, bearbeitet und gelöscht werden können. Für die Benutzung des Webservice und der Webanwendung soll keine Authentifizierung notwendig sein. 
 - Beschreiben Sie Ihre Lösung ausreichend, damit wir sie ausprobieren und nachvollziehen können.
 
-## Aufgabe 2:
+## Aufgabe 2 (optional):
 
-In der zweiten Aufgabe zeigen Sie ihre Fähigkeiten im Bereich DevOps. Alle Informationen und Code dazu finden Sie unter https://github.com/heiseonline/devops4developers.
+In der zweiten Aufgabe können Sie uns Ihre Fähigkeiten im Bereich DevOps zeigen. Alle Informationen und Code dazu finden Sie unter https://github.com/heiseonline/devops4developers.
